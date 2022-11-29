@@ -1,4 +1,4 @@
-# sal-s-shipping
+# Codecademy_sal-s-shipping
 
 Learn Python 3 - Codecademy Project
 
